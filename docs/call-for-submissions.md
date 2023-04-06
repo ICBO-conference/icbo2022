@@ -4,22 +4,19 @@ The 12th International Workshop on Vaccine and Drug Ontology Studies.
 
 This meeting will be a hybrid meeting that includes both in-person and virtual participation. 
 
-## Conference Dates 
-
-TDB
-
 ## Venue
 
-TDB
+In-person: the Campus Darcy Ribeiro of University of Brasilia, Brasilia, DF, Brazil.<BR>
+Virtual: Zoom (the link will be provided to the registered participants before the workshop)
 
-## Call for Workshops and Tutorials
-
-TDB
-
-## Call for ICBO Conference Papers and Abstracts 
-
-TDB
-
+## Conference Dates 
+Paper submission: June 30, 2023<BR>
+Notification of acceptance: July 31, 2023<BR>
+Last abstract submission: August 4, 2023<BR>
+Acceptance of abstract: August 11, 2023<BR>
+Workshop: August 28-30, 2023 (exact date TBD)<BR>
+Submission to journal: JBMS (deadline TBD)<BR>
+  
 ### Journal of Biomedical Semantics ICBO Thematic Series Option
 
 Details to be disclose later.
@@ -34,19 +31,4 @@ Details to be disclose later.
 
 ## VDOS 2023 theme: Lessons from Ontologies in Diverse Domains 
 
-The focus of our 2023 workshop is "Lessons from Ontologies in Diverse Domains". 
-This includes ontologies in domains such as:
-
-- Big data integration, interoperability, and analysis for intelligent systems
-- Decision support systems 
-- Machine Learning, graph database, knowledge graphs 
-- Natural Language Processing
-- Visualization
-- Digital twins 
-- Genetics, phenotypes, and diseases 
-- COVID-19 
-- Social determinants of health (SDOH)
-- Electronic health records 
-- Industrial applications 
-- Plant and agricultural applications    
-- Climate change
+Details to be disclose later.
