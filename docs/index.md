@@ -2,17 +2,17 @@
 
 ## Location
 
-In-person: the Campus Darcy Ribeiro of University of Brasilia, Brasilia, DF, Brazil.
+In-person: the Campus Darcy Ribeiro of University of Brasilia, Brasilia, DF, Brazil.<BR>
 Virtual: Zoom (the link will be provided to the registered participants before the workshop)
 
 ## Conference Dates
 
-Paper submission: June 30, 2023
-Notification of acceptance: July 31, 2023
-Last abstract submission: August 4, 2023
-Acceptance of abstract: August 11, 2023
-Workshop: August 28-30, 2023 (exact date TBD)
-Submission to journal: JBMS (deadline TBD)
+Paper submission: June 30, 2023<BR>
+Notification of acceptance: July 31, 2023<BR>
+Last abstract submission: August 4, 2023<BR>
+Acceptance of abstract: August 11, 2023<BR>
+Workshop: August 28-30, 2023 (exact date TBD)<BR>
+Submission to journal: JBMS (deadline TBD)<BR>
 
 ## [Keynote Speakers](keynote-speakers.md)
 
