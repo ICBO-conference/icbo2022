@@ -28,7 +28,6 @@ The paper format will be the same as the format used in ICBO. Contributions must
 All the papers will be submitted and handled through EasyChair: https://easychair.org/my/conference?conf=vdos2023 <BR>All full-length (6-8 pages) and short-length (2-3 pages) submissions will go through peer reviews by at least two reviewers. The one-page statement-of-interest submissions will be reviewed by the workshop organizers. All full-length papers and selected short papers will be invited to submit a full revised version to the journal of biomedical semantics (JBMS) VDOS Special Issue. 
 
 ## Poster preparation guideline
-
 VDOS will not have a separate poster session; however, we expect all the papers selected for presentation will be encouraged to present a poster at the main ICBO conference.
 
 ## VDOS 2023 theme: Lessons from Ontologies in Diverse Domains 
