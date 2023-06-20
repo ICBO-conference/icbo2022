@@ -14,7 +14,7 @@ Paper submission: June 30, 2023<BR>
 Notification of acceptance: July 31, 2023<BR>
 Last abstract submission: August 4, 2023<BR>
 Acceptance of abstract: August 11, 2023<BR>
-Workshop: August 29, 2023 (9 AM – noon Brazilian time)<BR>
+Workshop: August 29, 2023 (9 AM – noon Brazilian time; 8 AM - 11 AM EDT)<BR>
 Submission to journal: JBMS (deadline TBD)<BR>
   
 ## Submission Format
