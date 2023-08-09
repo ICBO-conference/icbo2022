@@ -1,6 +1,6 @@
 # VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies
 
-## Program
+## Program (Time zone: Brazilian time)
 
 | Start   | End   | Title                                                                                                 | Speaker                                                                                         | Recorded videos |
 |---------|-------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------|
