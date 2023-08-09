@@ -17,8 +17,8 @@
 | 10:35   | 10:45 | ChatGPT to identify of drug-drug interactions from texts                                             | Hasin Rehana<br>(Univ. of North Dakota; USA)                                                    |                 |
 | 10:45   | 11:25 | **Section IV: Keynote (Rebecca)**<br>Title TBA                                                       | Rebecca Raze<br>(US FDA)                                                                                             |                 |
 | 11:25   | 11:45 | **Section V: Discussion & Closing remark**                                                           |                                                                                                 |                 |
-<BR>
-Please note the time difference. 9 AM Brazilian time == 8 AM Eastern Daylight Time (EDT)
+
+## Please note the time difference. 9 AM Brazilian time == 8 AM Eastern Daylight Time (EDT)
 
 ## Conference Videos
 
