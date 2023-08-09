@@ -2,21 +2,23 @@
 
 ## Location
 
-In-person: the Campus Darcy Ribeiro of University of Brasilia, Brasilia, DF, Brazil.<BR>
-Virtual: Zoom (the link will be provided to the registered participants before the workshop)
+Virtual: Zoom (the link will be provided to the registered participants before the workshop)<BR>
+In-person: There will be __NO__ in-person onsite meeting this year. We are sorry for the inconvenience. 
 
 ## Conference Dates
 
-Paper submission: June 30, 2023<BR>
-Notification of acceptance: July 31, 2023<BR>
-Last abstract submission: August 4, 2023<BR>
-Acceptance of abstract: August 11, 2023<BR>
-Workshop: August 29th, 2023 (9 AM – noon Brazilian time)<BR>
-Submission to journal: JBMS VDOS Special Issue (deadline TBD)<BR>
+- Paper submission: June 30, 2023<BR>
+- Notification of acceptance: July 31, 2023<BR>
+- Last abstract submission: August 4, 2023<BR>
+- Acceptance of abstract: August 11, 2023<BR>
+- Workshop: __August 29th, 2023 (8:30 AM – noon Brazilian time)<BR>
+                            (7:30 AM - 11 AM Eastern Daylight Time)<BR>__
+- Submission to journal: JBMS VDOS Special Issue (deadline TBD)<BR>
 
 ## [Keynote Speakers](keynote-speakers.md)
 
-TBD
+Rebecca Racz, PharmD. US Food and Drug Administration. <BR>
+Title: to-be-announced
 
 ## Conference Videos
 
