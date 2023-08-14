@@ -15,7 +15,7 @@
 |         |       | **Section III: Drug**                                                                                 |                                                                                                 |                 |
 | 10:15   | 10:35 | Enriching the FIDEO ontology with food-drug interactions from online knowledge sources               | Rabia Azzi<br>(Univ. of Texas, Houston; USA)                                                    |                 |
 | 10:35   | 10:45 | ChatGPT to identify of drug-drug interactions from texts                                             | Hasin Rehana<br>(Univ. of North Dakota; USA)                                                    |                 |
-| 10:45   | 11:25 | **Section IV: Keynote (Rebecca)**<br>Title TBA                                                       | Rebecca Raze<br>(US FDA)                                                                                             |                 |
+| 10:45   | 11:25 | **Section IV: Keynote (To be determined)**<br>Title TBA                                                       | To be determined                                                                                            |                 |
 | 11:25   | 11:45 | **Section V: Discussion & Closing remark**                                                           |                                                                                                 |                 |
 
 ## Please note the time difference. 9 AM Brazilian time == 8 AM Eastern Daylight Time (EDT)
