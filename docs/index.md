@@ -1,29 +1,25 @@
-# ICBO 2022: International Conference on Biomedical Ontology
-
-Theme of ICBO 2022: "Lessons from Ontologies in Diverse Domains".  
-
-## Conference Videos
-
-A playlist of the conference's recordings is available on [YouTube](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists).  
-
-## Conference Feedback
-
-This year's ICBO conference has ended. See this [PDF](survey/ICBO2022-survey-results-final.pdf) to see participant feedback.
+# VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies
 
 ## Location
 
-The 2022 International Conference of Biomedical Ontology (ICBO 2022) will be held in 2022 at the [Michigan League](https://uunions.umich.edu/league/), [University of Michigan](https://umich.edu/), Ann Arbor, MI, USA. 
-
-[Michigan League](https://uunions.umich.edu/league/) Address: 
-911 North University, Ann Arbor, MI 48109. 
+Virtual: Zoom (the link will be provided to the registered participants before the workshop)<BR>
+In-person: There will be __NO__ in-person onsite meeting this year. We are sorry for the inconvenience. 
 
 ## Conference Dates
-- **September 25-28, 2022** (Sunday-Wednesday)
-  - Workshops: September 25-26, 2022
-  - Main conference: September 27-28, 2022 
 
-This meeting will be held in a hybrid format that includes both in-person and virtual participation and is part of the [Michigan Week of Ontology and Semantic Web](michigan-week-of-ontology-and-semantic-web.md).
+- Paper submission: June 30, 2023<BR>
+- Notification of acceptance: July 31, 2023<BR>
+- Last abstract submission: August 4, 2023<BR>
+- Acceptance of abstract: August 11, 2023<BR>
+- Workshop: __August 29th, 2023 (8:30 AM – noon Brazilian time)<BR>
+                            (7:30 AM - 11 AM Eastern Daylight Time)<BR>__
+- Submission to journal: JBMS VDOS Special Issue (deadline TBD)<BR>
 
 ## [Keynote Speakers](keynote-speakers.md)
-- [Chris Stoeckert](https://www.med.upenn.edu/apps/faculty/index.php/p6403) (University of Pennsylvania)
-- [Susan Gregurick](https://datascience.nih.gov/director%E2%80%99s-corner) (National Institutes of Health)
+
+Rebecca Racz, PharmD. US Food and Drug Administration. <BR>
+Title: to-be-announced
+
+## Conference Videos
+
+Playlists of the current and previous VDOS conference recordings are available on [YouTube](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists).  
