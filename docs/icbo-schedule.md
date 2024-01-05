@@ -132,9 +132,11 @@ will be held virtually on September 21, 2022. See website for details.
 3:00 – 3:15 pm Coffee Break
 
 ```txt
-3:15 – 4:00 pm Invited Talk: Robert Hoerndorf (45 minutes) ([extended abstract](papers/Hoerhndorf_Extended_Abstract.pdf))
+3:15 – 4:00 pm Invited Talk: Robert Hoerndorf (45 minutes)
 ```
-**The coevolution of ontologies and knowledge-based analytics in bioinformatics** ([slides](slides/Hoehndorf_Coevolution.pdf))  
+
+
+**The coevolution of ontologies and knowledge-based analytics in bioinformatics** ([slides](slides/Hoehndorf_Coevolution.pdf))([extended abstract](papers/Hoerhndorf_Extended_Abstract.pdf)) 
  
 ```txt
 4:00 – 4:15 pm BFO/ISO Celebration (15 minutes)
